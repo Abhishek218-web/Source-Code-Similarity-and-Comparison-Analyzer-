@@ -1,0 +1,54 @@
+============================================================
+       SOURCE CODE SIMILARITY COMPARISON REPORT
+============================================================
+
+Files Compared:
+1. program1.cpp
+2. program2.cpp
+3. program3.cpp
+4. program4.cpp
+
+============================================================
+                    COMPARISON RESULTS
+============================================================
+
+program1.cpp VS program2.cpp
+--------------------------------------------
+Line Similarity     : 60.00%
+Keyword Similarity  : 100.00%
+Overall Similarity  : 72.00%
+
+program1.cpp VS program3.cpp
+--------------------------------------------
+Line Similarity     : 36.84%
+Keyword Similarity  : 85.71%
+Overall Similarity  : 51.50%
+
+program1.cpp VS program4.cpp
+--------------------------------------------
+Line Similarity     : 16.67%
+Keyword Similarity  : 54.55%
+Overall Similarity  : 28.03%
+
+program2.cpp VS program3.cpp
+--------------------------------------------
+Line Similarity     : 31.58%
+Keyword Similarity  : 85.71%
+Overall Similarity  : 47.82%
+
+program2.cpp VS program4.cpp
+--------------------------------------------
+Line Similarity     : 16.67%
+Keyword Similarity  : 54.55%
+Overall Similarity  : 28.03%
+
+program3.cpp VS program4.cpp
+--------------------------------------------
+Line Similarity     : 20.83%
+Keyword Similarity  : 63.64%
+Overall Similarity  : 33.67%
+
+============================================================
+Note: This is an educational source-code comparison tool.
+The similarity score does not prove plagiarism or authorship.
+============================================================
